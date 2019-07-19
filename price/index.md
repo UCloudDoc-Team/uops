@@ -2,4 +2,4 @@
 
 # 产品价格
 
-{{indexmenu>:compute:uops:price#1 | nsort dsort msort}}
+{{indexmenu>:service:uops:price#1 | nsort dsort msort}}

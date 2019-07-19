@@ -2,4 +2,4 @@
 
 # 使用指南
 
-{{indexmenu>:compute:uops:guide#1 | nsort dsort msort}}
+{{indexmenu>:service:uops:guide#1 | nsort dsort msort}}

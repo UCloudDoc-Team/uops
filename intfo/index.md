@@ -2,5 +2,5 @@
 
 # 产品简介
 
-{{indexmenu>:compute:uops:intfo#1 | nsort dsort msort}}
+{{indexmenu>:service:uops:intfo#1 | nsort dsort msort}}
 

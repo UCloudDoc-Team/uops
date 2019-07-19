@@ -2,4 +2,4 @@
 
 # 快速上手
 
-{{indexmenu>:compute:uops:quick#1 | nsort dsort msort}}
+{{indexmenu>:service:uops:quick#1 | nsort dsort msort}}

@@ -2,4 +2,4 @@
 
 # FAQ
 
-{{indexmenu>:compute:uops:faq#1 | nsort dsort msort}}
+{{indexmenu>:service:uops:faq#1 | nsort dsort msort}}
